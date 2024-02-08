@@ -1,6 +1,6 @@
 <h1> Hi! My name is Vadim and im Junior Frontend Developer</h1>
 
-<p align = center ><img src="https://user-images.githubusercontent.com/74038190/219923823-bf1ce878-c6b8-4faa-be07-93e6b1006521.gif"> </p>
+<!--<p align = center ><img src="https://user-images.githubusercontent.com/74038190/219923823-bf1ce878-c6b8-4faa-be07-93e6b1006521.gif"> </p> -->
 
 <div>
 
@@ -22,7 +22,8 @@
   
 - <h4> frameworks & libraries </h4>
   <img src = "https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=for-the-badge" alt = "reactjs" />
-  <img src = "https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=whitehttps://img.shields.io/badge/tailwindcss-0F172A?&logo=tailwindcss" alt = "tailwindcss" />
+  </br>
+  and few others!
   </br></br>
   </div>
 
