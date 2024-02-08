@@ -1,3 +1,5 @@
+<h1> Hi! My name is Vadim and im Junior Frontend Developer</h1>
+
 <p align = center ><img src="https://user-images.githubusercontent.com/74038190/219923823-bf1ce878-c6b8-4faa-be07-93e6b1006521.gif"> </p>
 
 <div>
